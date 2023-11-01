@@ -7,4 +7,4 @@
 # Como executar na sua máquina
 - Baixe os arquivos
 - Extraia a pasta
-- Abra o arquivo 'caculadora.html'
+- Abra o arquivo 'index.html'
