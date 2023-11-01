@@ -1,0 +1,2 @@
+Primeiro projeto desenvolvido.
+Tecnologias usadas: HTML, CSS e Javascript.
